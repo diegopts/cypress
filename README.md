@@ -18,13 +18,29 @@ Projeto modelo automação [Demonstrativo Cypress]()
 
 
 4 - Documentação de teste - Emerson Rios - 
+
+
 5 - Casos de Teste de Software - Emerson Rios -  
+
+
 6 - O que e defeito - Emerson Rios - 
+
+
 7 - teste mercado trabalho - Isabelle Vasconcelos Torres e Filipe Bernardes Barbosa [link]() 
+
+
 8 - Workshop de Teste de  Software (visão geral) - 
+
+
 9 - Workshop de Teste de  Software (práticas) - 
+
+
 10 - Base de Conhecimento Em Teste de Software - Comissão Internacional para Qualificação de Teste de Software 2005-2007 - (LIVRO - páginas / tempo estimado)
+
+
 11 - curso cypress 1
+
+
 
 
 
