@@ -75,15 +75,21 @@ Autor [Emerson Rios](http://www.emersonrios.eti.br/)
 4 páginas / tempo estimado 
 [Notation]()
 
-[ ] 8 - []()
+[ ] 8 - [Worshop visao geral de teste](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2)
+[]()
+
 [Notation]()
 
-[ ] 9 - []()
+[ ] 9 - [Worshop visão geral de teste - práticas](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2)
+[]()
+
 [Notation]()
 
-[ ] 10 - []()
+[ ] 10 - [Base de conhecimento em teste de software](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2)
+[]()
 [Notation]()
 
+///
 
 [ ] [Certifications course]()
 [cypress]()
