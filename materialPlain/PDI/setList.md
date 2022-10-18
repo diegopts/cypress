@@ -22,7 +22,7 @@ $number$ - "Article Name" (link pages/download area)
 [Repositório](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2)
 
 
-[x] 1 - ['Introdução a Teste de Software'](https://drive.google.com/drive/folders/1mBAfs26plire1A9P7u5eZ52VVgYBTg5i?usp=sharing)
+ [x] 1 - ['Introdução a Teste de Software'](https://drive.google.com/drive/folders/1mBAfs26plire1A9P7u5eZ52VVgYBTg5i?usp=sharing)
 ['Edição 01 – Engenharia de Software Magazine 59'](https://www.devmedia.com.br/revista-engenharia-de-software/8028)
 Autor ['Arilo Claudio Dias Neto'](https://www.researchgate.net/profile/Arilo-Neto)
 
@@ -36,20 +36,20 @@ Autor ['Arilo Claudio Dias Neto'](https://www.researchgate.net/profile/Arilo-Net
 - Usuário - **Falha** - Processamento incorreto e comportamento inconsistente 
  -->
 
-[x] 2 - ['Processo de Teste de Software'](https://drive.google.com/open?id=1Hea5QYoBeqoN14hrvnyqiuwCK4DVL2ub)
+ [x] 2 - ['Processo de Teste de Software'](https://drive.google.com/open?id=1Hea5QYoBeqoN14hrvnyqiuwCK4DVL2ub)
 Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 
 75 slides / tempo estimado 
 [Notation]()
 
-[ ] 3 - ['Teste de software - a intuição'](https://drive.google.com/open?id=1e-pdHTITnfKDb6hVcGtL-0l8lvJ3A0it)
+ [ ] 3 - ['Teste de software - a intuição'](https://drive.google.com/open?id=1e-pdHTITnfKDb6hVcGtL-0l8lvJ3A0it)
 Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 
 3 páginas / tempo estimado 
 [Notation]()
 [video exemple](http://www.youtube.com/watch?v=yM3Y18nUsfo&feature=channel)
 
-[ ] 4 - ['Documentação de teste'](https://drive.google.com/file/d/1Ux3PLsjGw3ygk43LfO2qf_N4OvnsyoQ-/view)
+ [ ] 4 - ['Documentação de teste'](https://drive.google.com/file/d/1Ux3PLsjGw3ygk43LfO2qf_N4OvnsyoQ-/view)
 Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 
 69 paginas / tempo estimado 
