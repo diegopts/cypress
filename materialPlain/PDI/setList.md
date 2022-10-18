@@ -55,32 +55,32 @@ Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 69 paginas / tempo estimado 
 [Notation]()
 
-    [ ] 5 - ['Casos de Teste de Software'](https://drive.google.com/open?id=1B4XmBnFoFvdaHSYmFoIgn7y4of4KZkwk)
+ [ ] 5 - ['Casos de Teste de Software'](https://drive.google.com/open?id=1B4XmBnFoFvdaHSYmFoIgn7y4of4KZkwk)
 Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 48 páginas / tempo estimado 
 [Notation]()
 
-    [ ] 6 - ['O que e defeito'](https://drive.google.com/open?id=1VMncMnRD0Z1oFbbOg0Rvi_CBw8osYKKJ)
+ [ ] 6 - ['O que e defeito'](https://drive.google.com/open?id=1VMncMnRD0Z1oFbbOg0Rvi_CBw8osYKKJ)
 Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 3 páginas / tempo estimado 
 [Notation]()
 
-    [ ] 7 - ['Teste mercado trabalho'](http://revista.faculdadeprojecao.edu.br/index.php/Projecao4/article/viewFile/82/70)
+ [x] 7 - ['Teste mercado trabalho'](http://revista.faculdadeprojecao.edu.br/index.php/Projecao4/article/viewFile/82/70)
 Autor ['Filipe Bernardes Barbosa']() e ['Isabelle Vasconcelos Torres']()
 4 páginas / tempo estimado 
 [Notation]()
 
-    [ ] 8 - ['Worshop visao geral de teste'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
+ [ ] 8 - ['Worshop visao geral de teste'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 []()
 
 [Notation]()
 
-    [ ] 9 - ['Worshop visão geral de teste - práticas'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
+ [ ] 9 - ['Worshop visão geral de teste - práticas'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 []()
 
 [Notation]()
 
-    [ ] 10 - ['Base de conhecimento em teste de software'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor [Comissão Internacional para Qualificação de Teste de Software]()
+ [] 10 - ['Base de conhecimento em teste de software'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor [Comissão Internacional para Qualificação de Teste de Software]()
 []()
 [Notation]()
 
