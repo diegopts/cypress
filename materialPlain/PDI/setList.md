@@ -47,33 +47,43 @@ Autor [Emerson Rios](http://www.emersonrios.eti.br/)
 [Notation]()
 
 
-[   ] 3 - [Teste de software - a intuição]()
+[   ] 3 - [Teste de software - a intuição](https://drive.google.com/open?id=1e-pdHTITnfKDb6hVcGtL-0l8lvJ3A0it)
 [Emerson Rios](http://www.emersonrios.eti.br/)
-3 páginas / tempo estimado 
-http://www.youtube.com/watch?v=yM3Y18nUsfo&feature=channel
 
-[] 4 - [Documentação de teste]()
+3 páginas / tempo estimado 
+[Notation]()
+[video exemple](http://www.youtube.com/watch?v=yM3Y18nUsfo&feature=channel)
+
+[] 4 - [Documentação de teste](https://drive.google.com/file/d/1Ux3PLsjGw3ygk43LfO2qf_N4OvnsyoQ-/view)
 [Emerson Rios](http://www.emersonrios.eti.br/)
 
 69 paginas / tempo estimado 
+[Notation]()
 
-[ ] 5 - [Casos de Teste de Software]()
+[ ] 5 - [Casos de Teste de Software](https://drive.google.com/open?id=1B4XmBnFoFvdaHSYmFoIgn7y4of4KZkwk)
 [Emerson Rios](http://www.emersonrios.eti.br/)
 48 páginas / tempo estimado 
+[Notation]()
 
-[ ] 6 - [O que e defeito]()
+[ ] 6 - [O que e defeito](https://drive.google.com/open?id=1VMncMnRD0Z1oFbbOg0Rvi_CBw8osYKKJ)
 [Emerson Rios](http://www.emersonrios.eti.br/)
 3 páginas / tempo estimado 
+[Notation]()
 
-[ ] 7 - [Teste mercado trabalho]()
-Filipe Bernardes Barbosa e Isabelle Vasconcelos Torres
+[ ] 7 - [Teste mercado trabalho](http://revista.faculdadeprojecao.edu.br/index.php/Projecao4/article/viewFile/82/70)
+[Filipe Bernardes Barbosa]() e [Isabelle Vasconcelos Torres]()
 4 páginas / tempo estimado 
+[Notation]()
 
 [ ] 8 - []()
+[Notation]()
 
 [ ] 9 - []()
+[Notation]()
 
 [ ] 10 - []()
+[Notation]()
+
 
 [ ] [Certifications course]()
 [cypress]()
