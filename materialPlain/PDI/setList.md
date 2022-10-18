@@ -23,7 +23,7 @@ $number$ - "Article Name" (link pages/download area)
 <colapse/>
 
 
-[ ] 1 - [Introdução a Teste de Software](https://drive.google.com/drive/folders/1mBAfs26plire1A9P7u5eZ52VVgYBTg5i?usp=sharing)
+[] 1 - [Introdução a Teste de Software](https://drive.google.com/drive/folders/1mBAfs26plire1A9P7u5eZ52VVgYBTg5i?usp=sharing)
 [Edição 01 – Engenharia de Software Magazine 59](https://www.devmedia.com.br/revista-engenharia-de-software/8028)
 Autor [Arilo Claudio Dias Neto](https://www.researchgate.net/profile/Arilo-Neto)
 
@@ -39,19 +39,19 @@ Autor [Arilo Claudio Dias Neto](https://www.researchgate.net/profile/Arilo-Neto)
 
 
 
-[ ] 2 - [Processo de Teste de Software](https://drive.google.com/open?id=1Hea5QYoBeqoN14hrvnyqiuwCK4DVL2ub)
+[ x ] 2 - [Processo de Teste de Software](https://drive.google.com/open?id=1Hea5QYoBeqoN14hrvnyqiuwCK4DVL2ub)
 Autor [Emerson Rios](http://www.emersonrios.eti.br/)
 
 75 slides / tempo estimado 
 [Notation]()
 
 
-[ ] 3 - [Teste de software - a intuição]()
+[   ] 3 - [Teste de software - a intuição]()
 [Emerson Rios](http://www.emersonrios.eti.br/)
 3 páginas / tempo estimado 
 http://www.youtube.com/watch?v=yM3Y18nUsfo&feature=channel
 
-[ ] 4 - [Documentação de teste]()
+[] 4 - [Documentação de teste]()
 [Emerson Rios](http://www.emersonrios.eti.br/)
 
 69 paginas / tempo estimado 
