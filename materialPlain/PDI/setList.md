@@ -1,4 +1,5 @@
-## Material de leitura / [anotações](https://www.evernote.com/shard/s623/sh/474db184-f844-a4d8-75a6-ba5cff415fd0/b4ac3b4b940fb0937498a0cbafb5c116)
+## Material de leitura / 
+[anotações](https://www.evernote.com/shard/s623/sh/474db184-f844-a4d8-75a6-ba5cff415fd0/b4ac3b4b940fb0937498a0cbafb5c116)
 
 <colapse>
 
