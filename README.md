@@ -11,51 +11,72 @@ Curso youtube [JS Java script 14 mini projetos](https://www.youtube.com/watch?v=
 ||
 Projeto modelo automação [Demonstrativo Cypress]()
 
-
-[1] - Introdução a Teste de Software - Arilo Claudio Dias Neto - artigo devmedia/researchgate.net
-
-|2| - Processo de Teste de Software - Emerson Rios - slides page http://www.emersonrios.eti.br/ 
+[Repositório](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2)
 
 
-[ ] 3 - Teste de software - a intuição - Emerson Rios 
+ [x] 1 - ['Introdução a Teste de Software'](https://drive.google.com/drive/folders/1mBAfs26plire1A9P7u5eZ52VVgYBTg5i?usp=sharing)
+['Edição 01 – Engenharia de Software Magazine 59'](https://www.devmedia.com.br/revista-engenharia-de-software/8028)
+Autor ['Arilo Claudio Dias Neto'](https://www.researchgate.net/profile/Arilo-Neto)
 
+7 páginas artigo / Tempo estimado hr:mn:ss
 
-4 - Documentação de teste - Emerson Rios - 
+[Notation]()
 
+<!-- ///Definições do IEEE:
+- Físico - *Defeito* - instrução ou comando incorretos
+- Informação - **Erro** - desvio da especificação
+- Usuário - **Falha** - Processamento incorreto e comportamento inconsistente 
+ -->
 
-5 - Casos de Teste de Software - Emerson Rios -  
+ [x] 2 - ['Processo de Teste de Software'](https://drive.google.com/open?id=1Hea5QYoBeqoN14hrvnyqiuwCK4DVL2ub)
+Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 
+75 slides / tempo estimado 
+[Notation]()
 
-6 - O que e defeito - Emerson Rios - 
+ [ ] 3 - ['Teste de software - a intuição'](https://drive.google.com/open?id=1e-pdHTITnfKDb6hVcGtL-0l8lvJ3A0it)
+Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 
+3 páginas / tempo estimado 
+[Notation]()
+[video exemple](http://www.youtube.com/watch?v=yM3Y18nUsfo&feature=channel)
 
-7 - teste mercado trabalho - Isabelle Vasconcelos Torres e Filipe Bernardes Barbosa [link]() 
+ [ ] 4 - ['Documentação de teste'](https://drive.google.com/file/d/1Ux3PLsjGw3ygk43LfO2qf_N4OvnsyoQ-/view)
+Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
 
+69 paginas / tempo estimado 
+[Notation]()
 
-8 - Workshop de Teste de  Software (visão geral) - 
+ [ ] 5 - ['Casos de Teste de Software'](https://drive.google.com/open?id=1B4XmBnFoFvdaHSYmFoIgn7y4of4KZkwk)
+Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
+48 páginas / tempo estimado 
+[Notation]()
 
+ [ ] 6 - ['O que e defeito'](https://drive.google.com/open?id=1VMncMnRD0Z1oFbbOg0Rvi_CBw8osYKKJ)
+Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
+3 páginas / tempo estimado 
+[Notation]()
 
-9 - Workshop de Teste de  Software (práticas) - 
+ [x] 7 - ['Teste mercado trabalho'](http://revista.faculdadeprojecao.edu.br/index.php/Projecao4/article/viewFile/82/70)
+Autor ['Filipe Bernardes Barbosa']() e ['Isabelle Vasconcelos Torres']()
+4 páginas / tempo estimado 
+[Notation]()
 
+ [ ] 8 - ['Worshop visao geral de teste'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
+[]()
 
-10 - Base de Conhecimento Em Teste de Software - Comissão Internacional para Qualificação de Teste de Software 2005-2007 - (LIVRO - páginas / tempo estimado)
+[Notation]()
+
+ [ ] 9 - ['Worshop visão geral de teste - práticas'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor ['Emerson Rios'](http://www.emersonrios.eti.br/)
+[]()
+
+[Notation]()
+
+ [] 10 - ['Base de conhecimento em teste de software'](https://drive.google.com/drive/u/0/folders/1hxJoZSBvHA0YWRqQsk3owhP-kCRGC2o2) Autor [Comissão Internacional para Qualificação de Teste de Software]()
+[]()
+[Notation]()
 
 
 11 - curso cypress 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
